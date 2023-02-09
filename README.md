@@ -7,8 +7,16 @@ A collection of basic Java programming language programs for learners.
 <h3>Contents:</h3>
 <ul>
   <li>
-    <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201">Assignment 1</a> - Menu driven Java Program to implement various input methods.
+    <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201">Assignment 1</a><br>
   </li>
+  <ul>
+    <li>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201/Part%201">Part 1</a> - Menu driven Java Program to implement various input methods.<br>
+    </li>
+    <li>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201/Part%202">Part 2</a> - Simple menu driven calculator to implement various mathematical function.<br>
+    </li>
+  </ul>
   <li>
     <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202">Assignment 2</a> - Simple menu driven calculator to implement various mathematical function.
   </li>
