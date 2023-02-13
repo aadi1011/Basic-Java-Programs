@@ -14,7 +14,7 @@ A collection of basic Java programming language programs for learners.
         <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201/Part%201">Part 1</a> - Menu driven Java Program to implement various input methods.<br>
     </li>
     <li>
-        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201/Part%202">Part 2</a> - Simple menu driven calculator to implement various mathematical function.<br><br>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%201/Part%202">Part 2</a> - Menu driven calculator to implement various mathematical function.<br><br>
     </li>
   </ul>
   <li>
@@ -22,13 +22,13 @@ A collection of basic Java programming language programs for learners.
   </li>
   <ul>
     <li>
-        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%201">Part 1</a> - Program that accepts numbers from the user and move them to respective arrays of 'odd' and 'even'.<br>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%201">Part 1</a> - Accepts numbers from the user and move them to respective arrays of 'odd' and 'even'.<br>
     </li>
     <li>
-        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%202">Part 2</a> - Program that finds 2 neighboring numbers in an array with the smallest distance to each.<br>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%202">Part 2</a> - Finds 2 neighboring numbers in an array with the smallest distance to each.<br>
     </li>
     <li>
-        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%203">Part 3</a> - Program to convert an array into ArrayList and vice versa.<br>
+        <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%203">Part 3</a> - Converts an array into ArrayList and vice versa.<br>
     </li>    
   </ul>
 </ul>
