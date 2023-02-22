@@ -2,12 +2,13 @@
 
 /* Java program to create a Student class describing attributes of a student like prn, name, DoB, marks etc.  
 *  Create an array of objects of Student class and perform operations like:  
-*  Add students, Display, Search (by prn, by name, by position), Update/Edit and Delete. */
+*  Add students, Display, Search (by prn, by name, by position), Update/Edit and Delete. 
+*  Reference to the operations works on the structure set in Student.java file */
 
 //Code by Aadith Sukumar (https://www.github.com/aadi1011)
 // AIML A1 | 21070126003
 
-package getMethod;
+
 import java.util.Scanner;
 
 public class StudentDemo {
@@ -15,12 +16,13 @@ public class StudentDemo {
     private int count;
     Scanner sc = new Scanner(System.in);
 
-
+    //initializing constructor
     public StudentDemo() {
         students = new Student[100];
         count = 0;
     }
-
+    
+    // Function to addStudent
     public void addStudent() 
     {
         System.out.println("Add Students");
@@ -50,6 +52,7 @@ public class StudentDemo {
         }
     }
 
+    // Function to display all student entries
     public void displayAllStudent()
     {
         if (count == 0) 
@@ -75,6 +78,7 @@ public class StudentDemo {
 
     }
 
+    // Function to search student data by PRN
     public void searchByPRN()
     {
         System.out.print("Enter PRN: ");
@@ -93,6 +97,7 @@ public class StudentDemo {
         }
     }
 
+    // Function to search student data by Name
     public void searchByName()
     {
         System.out.print("Enter Name: ");
@@ -111,6 +116,7 @@ public class StudentDemo {
         }
     }
 
+    // Function to search student data by Index value
     public void searchByIndex()
     {
         System.out.print("Enter Index: ");
@@ -123,6 +129,7 @@ public class StudentDemo {
         System.out.println("====================\n");
     }
 
+    // Function to update specific student data
     public void UpdateStudent()
     {
         System.out.println("Enter PRN of student to update: ");
@@ -159,7 +166,8 @@ public class StudentDemo {
             }
         }
     }
-
+    
+    // Function to delete specific student data
     public void deleteStudent() {
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Enter PRN of student to delete: ");
@@ -181,6 +189,7 @@ public class StudentDemo {
         System.out.println("Student not found.");
     }
     
+    //MAIN FUNCTION
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
@@ -256,3 +265,4 @@ public class StudentDemo {
         sc.close();
     }
 }
+//EOF
