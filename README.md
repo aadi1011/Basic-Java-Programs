@@ -30,5 +30,8 @@ A collection of basic Java programming language programs for learners.
     <li>
         <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%202/Part%203">Part 3</a> - Converts an array into ArrayList and vice versa.<br>
     </li>    
-  </ul>
+  </ul><br>
+  <li>
+    <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%203">Assignment 3</a> - Student Management System and working on class, attributes and various operations.
+  </li>
 </ul>
