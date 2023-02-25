@@ -34,4 +34,7 @@ A collection of basic Java programming language programs for learners.
   <li>
     <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%203">Assignment 3</a> - Student Management System and working on class, attributes and various operations.
   </li>
+  <li>
+    <a href="https://github.com/aadi1011/Basic-Java-Programs/tree/main/Assignment%204">Assignment 4</a> - Deck of Cards.
+  </li>
 </ul>
