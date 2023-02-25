@@ -5,19 +5,19 @@
 // Operations in the Deck.java file
 // Code by Aadith Sukumar (https://github.com/aadi1011)
 
-package CardsClasses;
-
 public class Card 
 {
     private String suit;
     private String value;
-
+    
+    //constructor
     public Card(String suit, String value) 
     {
         this.suit = suit;
         this.value = value;
     }
     
+    //Adding the getter and setter functions for each of the two variable parameters
     public String getSuit() 
     {
         return suit;
