@@ -12,3 +12,15 @@ public class circle implements shape {
         return circleArea;
     }
     
+    @Override
+    public float calculatePerimeter() {
+        circlePerimeter = 2 * pi * radius;
+        return circlePerimeter;
+    }
+
+    public String toString(){
+        return "Radius: " + radius + " \nArea: " + circleArea + " \nPerimeter: " + circlePerimeter;
+    }
+}
+
+
