@@ -1,3 +1,4 @@
+# Assignment 5 Part 1
 Implement the generic Shapes class as an interface `s` so that we can implement concrete classes like _circle, triangle, rectangle_ class from it.  
 1. Write an abstract class Shape:
     * Protected Data members: `dim1`, `dim2`, `dim3`, `numSides` 
