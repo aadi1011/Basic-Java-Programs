@@ -16,3 +16,14 @@ public class rectangle implements shape {
         return rectangleArea;
     }
     
+
+    @Override
+    public float calculatePerimeter() {
+        rectanglePerimeter = 2 * (length + breadth);
+        return rectanglePerimeter;
+    }
+
+    public String toString(){
+        return "length: " + length + "\nbreadth: " + length + " \nArea: " + rectangleArea + " \nPerimeter: " + rectanglePerimeter;
+    }
+}
