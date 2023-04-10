@@ -1,5 +1,3 @@
-package ShapesInterface;
-
 public class rectangle implements shape {
     
     float rectangleArea, rectanglePerimeter, length, breadth;
@@ -16,7 +14,6 @@ public class rectangle implements shape {
         return rectangleArea;
     }
     
-
     @Override
     public float calculatePerimeter() {
         rectanglePerimeter = 2 * (length + breadth);
