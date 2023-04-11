@@ -13,3 +13,13 @@ public class square implements shape {
         return squareArea;
     }
     
+    @Override
+    public float calculatePerimeter() {
+        squarePerimeter = 4 * side;
+        return squarePerimeter;
+    }
+
+    public String toString(){
+        return "side: " + side + " \nArea: " + squareArea + " \nPerimeter: " + squarePerimeter;
+    }
+}
