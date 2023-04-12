@@ -1,5 +1,3 @@
-package ShapesInterface;
-
 public class square implements shape {
     
     float squareArea, squarePerimeter, side;
