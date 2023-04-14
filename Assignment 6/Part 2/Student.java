@@ -1,5 +1,3 @@
-package StudentMultInterface_exp6;
-
 public class Student {
     String name, branch, batch, PRN;
     int Sub1, Sub2, Sub3, Sub4, Sub5;
