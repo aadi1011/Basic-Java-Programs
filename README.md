@@ -26,3 +26,8 @@ A collection of basic Java programming language programs for learners.
   - [Part 1](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%206/Part%201) - Fixed Stack and Growable Stack
   - [Part 2](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%206/Part%202) - Students result system (interface and inheritance)
   
+- [Assignment 7](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%207) - Operations on rational numbers with exception handling
+
+- [Assignment 8](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208)
+  - [Part 1](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208/Part%201) - Calculating factorial through command line arguments with user defined exceptions
+  - [Part 2](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208/Part%202) - User defined exception for String matching 
