@@ -88,6 +88,8 @@ class Operations
 
 }
 
+
+// main class with driver function
 public class Calculator
 {
     public static void main(String[] k) throws IOException
@@ -106,6 +108,7 @@ public class Calculator
         obj1.dividing(a, b);
         obj1.power(a, b);
         obj1.square_root(a, b);
+       
         //   obj1.mean(a, b);
         obj1.variance(a, b);
 
