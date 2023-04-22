@@ -31,3 +31,6 @@ A collection of basic Java programming language programs for learners.
 - [Assignment 8](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208)
   - [Part 1](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208/Part%201) - Calculating factorial through command line arguments with user defined exceptions
   - [Part 2](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%208/Part%202) - User defined exception for String matching 
+
+
+_<b>Note:</b> This repository has java codes divided into various folders called 'Assignments' for the author's academic work. They can also be interpreted as difficulty levels._
