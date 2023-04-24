@@ -5,6 +5,7 @@
  * Code by Aadith Sukumar (https://www.github.com/aadi1011)
 */
 
+// importing required packages
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,6 +17,7 @@ import java.lang.Math;
 // For Scanner class use java.util package
 import java.util.Scanner;
 
+// defining class Operations which contains the all the arithmetic functions
 class Operations
 {
     void addition(int a, int b)
@@ -52,6 +54,7 @@ class Operations
         System.out.println("Variance of "+a+" and "+b+" = "+((a-b)^2));
     }
 
+   // creating a separate function for mean calculating with a larger array of number input
     void meanpart2() throws IOException
     {
         System.out.println("MEAN CALCULATOR:");
@@ -66,6 +69,7 @@ class Operations
         int n;
 
         System.out.println("Enter the numbers to calculate mean (Enter 'end' to stop taking input): ");
+       // loop to take in numbers until user inputs 'end'
         while(true)
         {
             System.out.print("Enter number: ");
@@ -74,6 +78,7 @@ class Operations
             {
                 break;
             }
+           // keeps calculating the mean of the entered values in run-time
             else
             {
                 n = Integer.parseInt(input);
@@ -100,6 +105,7 @@ public class Calculator
         System.out.print("Enter second number: ");
         int b = myObj.nextInt(); //Input second number
 
+       // creating a new object for Operations class
         Operations obj1 = new Operations();
 
         obj1.addition(a, b);
@@ -109,7 +115,6 @@ public class Calculator
         obj1.power(a, b);
         obj1.square_root(a, b);
        
-        //   obj1.mean(a, b);
         obj1.variance(a, b);
 
         obj1.meanpart2();
