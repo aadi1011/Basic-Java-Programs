@@ -2,7 +2,7 @@
 
 import java.sql.*;
 
-class Demo{
+class jdbc{
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.jdbc.Driver");
