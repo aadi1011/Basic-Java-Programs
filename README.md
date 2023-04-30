@@ -34,4 +34,7 @@ A collection of basic Java programming language programs for learners.
   
 - [Assignment 9](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%209) - Demonstration of connecting SQL database to Java (through JDBC)
 
+- [Assignment 10](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%2010) - Demonstration of use of thread and various thread methods
+
+
 _<b>Note:</b> This repository has java codes divided into various folders called 'Assignments' for the author's academic work. They can also be interpreted as difficulty levels._
