@@ -37,4 +37,4 @@ A collection of basic Java programming language codes for learners.
 - [Assignment 10](https://github.com/aadi1011/Basic-Java-Programs/blob/main/Assignment%2010) - Demonstration of use of thread and various thread methods
 
 
-_<b>Note:</b> This repository has java codes divided into various folders called 'Assignments' for the author's academic work. They can also be interpreted as difficulty levels._
+_<b>Note:</b> This repository has java codes divided into various folders called 'Assignments' for the author's academic work. They can also be interpreted as difficulty levels. Will soon be refactoring the files according to difficulty levels._
