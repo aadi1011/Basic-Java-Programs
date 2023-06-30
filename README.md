@@ -1,4 +1,7 @@
-# Basic-Java-Programs
+# Basic Java Programs
+
+<a href="https://github.com/aadi1011/CPP-Data-Structures"><img alt="Files" src="https://img.shields.io/badge/Files-16-blue"></a>
+
 A collection of basic Java programming language codes for learners.
 
 <b>Who is this most beneficial for?</b></br>
