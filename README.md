@@ -2,7 +2,7 @@
 
 <a href="https://github.com/aadi1011/Basic-Java-Programs"><img alt="Files" src="https://img.shields.io/badge/Files-16-blue"></a>
 
-<a><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width=100></a>
+<a align=center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width=100></a>
 
 
 A collection of basic Java programming language codes for learners.
