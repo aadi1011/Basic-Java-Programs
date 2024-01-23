@@ -5,7 +5,7 @@
 <a align=center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width=100></a>
 
 
-A collection of basic Java programming language codes for learners.
+A collection of basic Java programming language codes for learners of 10 levels.
 Java Version: 8.1
 
 <b>Who is this most beneficial for?</b></br>
